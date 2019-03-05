@@ -1,6 +1,4 @@
 
-#Programming for the Puzzled -- Srini Devadas
-#You Will Never Want to Play Sudoku Again
 #Given a partially filled in Sudoku board, complete the puzzle
 #obeying the rules of Sudoku
 
